@@ -11,12 +11,15 @@ Bounding boxes are drawn around detected fruits.
 Results are saved as an image and text file.
 
 Project Summary
+
 Technologies Used :
+
 Roboflow: For dataset management
 Ultralytics YOLOv8: Object detection framework
 Python Libraries: OpenCV, NumPy, Matplotlib, TensorFlow
 
 Expected Outcomes :
+
 A trained YOLOv8 model that can detect and classify different fruits in images.
 A deployed inference system that processes test images and provides accurate fruit detection.
 
